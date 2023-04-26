@@ -15,12 +15,12 @@ const ProductCard = () => {
           <img
             className="img-fluid"
             src="images/watch.jpg"
-            alt="product image"
+            alt="product"
           />
           <img
             className="img-fluid"
             src="images/watch-1.jpg"
-            alt="product image"
+            alt="product"
           />
         </div>
         <div className="product-details">

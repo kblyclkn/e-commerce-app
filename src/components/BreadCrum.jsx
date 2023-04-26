@@ -4,12 +4,12 @@ import { Link } from "react-router-dom";
 function BreadCrum(props) {
   const { title } = props;
   return (
-    <div className="breadcrum py-4">
+    <div className="breadcrum mb-0 py-4">
       <div className="container-xxl">
         <div className="row">
           <div className="col-12">
-            <p className="text-center">
-              <Link to={"/"} className="text-dark">Ana Sayfa</Link>/ {title}
+            <p className="text-center mb-0">
+              <Link to={"/"} className="text-dark">Ana Sayfa &nbsp;</Link>/ {title}
             </p>
           </div>
         </div>
