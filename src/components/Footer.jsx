@@ -55,11 +55,11 @@ function Footer() {
                   kblyclkn2@gmail.com
                 </a>
                 <div className="social_icons d-flex align-items-center gap-30 mt-4">
-                  <a href="">
-                   <BsGithub className="text-white fs-3" />
+                  <a className="text-white" href="#">
+                    <BsGithub className=" fs-3" />
                   </a>
-                  <a href="">
-                    <BsLinkedin className="text-white fs-3" />
+                  <a className="text-white" href="#">
+                    <BsLinkedin className=" fs-3" />
                   </a>
                 </div>
               </div>

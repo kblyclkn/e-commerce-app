@@ -128,7 +128,7 @@ function Header() {
                 <div className="menu-links">
                   <div className="d-flex align-items-center gap-15">
                     <NavLink to="/">Ana Sayfa</NavLink>
-                    <NavLink to="/">Mağaza</NavLink>
+                    <NavLink to="/store">Mağaza</NavLink>
                     <NavLink to="/">Blog</NavLink>
                     <NavLink to="/contact">İletİşİm</NavLink>
                   </div>
